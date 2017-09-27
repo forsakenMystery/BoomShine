@@ -1,0 +1,60 @@
+﻿Environment at start of build:
+MSBuildExtensionsPath32 = C:\Program Files (x86)\MSBuild
+MSBuildExtensionsPath64 = C:\Program Files\MSBuild
+MSBuildExtensionsPath = C:\Program Files (x86)\MSBuild
+LOCALAPPDATA = C:\Users\mystery\AppData\Local
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\mystery\AppData\Roaming
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = MYSTERY-PC
+ComSpec = C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK = NO
+HOMEDRIVE = C:
+HOMEPATH = \Users\mystery
+LOGONSERVER = \\MYSTERY-PC
+NUMBER_OF_PROCESSORS = 4
+OS = Windows_NT
+Path = C:\Program Files\Dell\DW WLAN Card;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 2a07
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PT5HOME = C:\Program Files (x86)\Cisco Packet Tracer 6.0.1
+PT6HOME = C:\Program Files (x86)\Cisco Packet Tracer 6.0.1
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\mystery\AppData\Local\Temp
+TMP = C:\Users\mystery\AppData\Local\Temp
+USERDOMAIN = mystery-PC
+USERNAME = mystery
+USERPROFILE = C:\Users\mystery
+VisualStudioDir = C:\Users\mystery\Documents\Visual Studio 2010
+VS100COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+windir = C:\Windows
+windows_tracing_flags = 3
+windows_tracing_logfile = C:\BVTBin\Tests\installpackage\csilogfile.log
+
+  lvl boom shine.cpp
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(62): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(74): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(86): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(86): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(90): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(90): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(116): warning C4018: '<=' : signed/unsigned mismatch
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(119): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(132): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(139): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(195): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\mystery\desktop\boomshine\bgi\lvl boom shine.cpp(195): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  LINK : C:\Users\mystery\Desktop\boomshine\bgi\Debug\bgi.exe not found or not built by the last incremental link; performing full link
+  bgi.vcxproj -> C:\Users\mystery\Desktop\boomshine\bgi\Debug\bgi.exe
