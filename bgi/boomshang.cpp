@@ -12,7 +12,7 @@ email:hkhashechi@yahoo.com
 Copy right! 
 all rights reserved!
 */
-/*
+
 #include "graphics.h"
 //#include<glut.h>
 #include<stdio.h>
@@ -299,4 +299,4 @@ int main(int argc, char** argv){
 	int aaaa;
 	scanf("%d",&aaaa);
 	return 0;
-}*/
+}
