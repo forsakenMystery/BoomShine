@@ -18,7 +18,7 @@ winning and passing a level with capturing more than enough balls with your init
 
 ## Deployment
 
-You need to uncomment my code on boomshine. After running, you based on your state of your laptop/pc will get some link error which are easilly fixable there were none for me. If you need more help make an issue, so I can address it here
+You need to use lvl boomshine file to run. After running, you based on your state of your laptop/pc will get some link error which are easilly fixable there were none for me. If you need more help make an issue, so I can address it here
 
 ## Authors
 
